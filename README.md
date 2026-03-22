@@ -1,1 +1,1 @@
-# IntelliSQL-
+# IntelliSQL
